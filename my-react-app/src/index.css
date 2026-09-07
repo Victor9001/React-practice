@@ -1,0 +1,52 @@
+/*.card{
+  border:1px solid rgb(242, 238, 238);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(125, 90, 90);
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display:inline-block;
+}
+.card img{
+ max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+.card .card-title {
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0;
+  color: rgb(104, 102, 102);
+}
+.card .card-text{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(41, 37, 37);
+} 
+
+.student{
+  font-family:  Arial, sans-serif;
+  font-size: 2.5em;
+  padding: 10px;
+  border:1px solid rgba(92, 88, 88, 0.531)
+}
+.student p{
+  margin: 0;
+} */
+
+.welcome-message{
+  font-size: 2.5em;
+  background: rgb(2, 199, 2);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+}
+.login-message{
+background: rgb(160, 2, 2);
+font-size: 2.5em;
+color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+}
